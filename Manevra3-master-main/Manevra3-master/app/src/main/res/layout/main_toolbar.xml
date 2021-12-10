@@ -15,14 +15,17 @@
         android:onClick="MenuyeTiklama"
         android:src="@drawable/ic_baseline_menu_24" />
 
-    <SearchView
-        android:id="@+id/arama"
-        android:layout_width="239dp"
+
+    <Button
+        android:id="@+id/btnsearch"
+        android:layout_width="38dp"
         android:layout_height="38dp"
         android:layout_alignParentEnd="true"
+        android:background="@drawable/ic_baseline_search_24"
         android:layout_marginEnd="15dp"
-        android:layout_marginRight="120dp"
-        android:onClick="MenuyeTiklama" />
+
+        />
+
 
 
 </RelativeLayout>

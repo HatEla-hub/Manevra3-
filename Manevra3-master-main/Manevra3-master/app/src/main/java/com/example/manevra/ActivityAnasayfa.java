@@ -22,6 +22,14 @@ public class ActivityAnasayfa extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_anasayfa2);
         cekmece=findViewById(R.id.cekmece_arkaplan);
+        Button btnSearch =(Button)findViewById(R.id.btnsearch);
+        btnSearch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(ActivityAnasayfa.this,ActivityKronometre.class);
+                startActivity(intent);
+            }
+        });
         btn = (FloatingActionButton) findViewById(R.id.ekleme);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
