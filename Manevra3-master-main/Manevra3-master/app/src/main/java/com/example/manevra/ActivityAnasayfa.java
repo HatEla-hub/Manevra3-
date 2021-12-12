@@ -73,8 +73,8 @@ public class ActivityAnasayfa extends AppCompatActivity {
     }
 
     public void ToDoListTiklama(View view){
-        //Favori sayfası
-    }
+        Intent intent = new Intent(ActivityAnasayfa.this,ToDoListActivity.class);
+        startActivity(intent);    }
 
     public void ProfilimTiklama(View view){
         //Favori sayfası

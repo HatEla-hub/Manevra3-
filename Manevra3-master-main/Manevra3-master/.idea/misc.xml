@@ -3,14 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.13148148148148148" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3828125" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3828125" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_anasayfa2.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_baslangic.xml" value="0.1" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_giris2.xml" value="0.1" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_kitaplar2.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_kronometre.xml" value="0.33" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_kronometre.xml" value="0.25" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/activity_to_do_list.xml" value="0.33" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/add_new_task.xml" value="0.22" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/each_task.xml" value="0.5" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/gonderilen_kitaplar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/kullanici_ogesi.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/main_toolbar.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/main_toolbarkronometre.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/haticenur/Desktop/Manevra3-master-main/Manevra3-master-main/Manevra3-master/app/src/main/res/layout/menu_yonlendirme_cekmecesi.xml" value="0.36666666666666664" />

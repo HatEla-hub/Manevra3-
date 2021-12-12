@@ -16,11 +16,9 @@
             android:id="@+id/anasayfa"
             android:layout_width="58dp"
             android:layout_height="36dp"
-            android:layout_alignParentStart="true"
-            android:layout_marginTop="20dp"
             android:layout_marginStart="15dp"
-            android:background="@drawable/ic_baseline_arrow_back_24">
-
+            android:layout_marginTop="20dp"
+            android:background="@drawable/back">
         </Button>
     </RelativeLayout>
 
@@ -28,8 +26,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp">
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="69dp">
 
         <Chronometer
             android:id="@+id/chronometer"

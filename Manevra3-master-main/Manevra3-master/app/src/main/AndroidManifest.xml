@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Manevra">
         <activity
+            android:name=".ToDoListActivity"
+            android:exported="true" />
+        <activity
             android:name=".ActivityKronometre"
             android:exported="false" />
         <activity
